@@ -6,7 +6,7 @@
 A full stack web developer currently experienced in a multitude of programming languages.</p>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=astro-develops&hide_border=true&theme=transparent&show_icons=true)  ![](https://streak-stats.demolab.com?user=astro-develops&theme=blue-green&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=DD272700&dates=199C82)
+![](https://github-readme-stats.vercel.app/api?username=astro-develops&hide_border=true&theme=transparent&show_icons=true) 
 <div>
 
 <div align="center">
