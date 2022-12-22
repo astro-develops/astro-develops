@@ -2,8 +2,12 @@
 
 # Astro
 
-Hey there. I'm Astro
+Hey there, I'm Astro
 
+<!--
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> 
+-->
+  
 A full stack web developer currently experienced in a multitude of programming languages.</p>
 
 <a href="https://replit.com/@astrothedev">
